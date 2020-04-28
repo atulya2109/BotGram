@@ -1,6 +1,7 @@
-./logs/
-./venv/
-./*.sqlite
-./*.pickle
-./settings.json
-./pbservice.py
+logs
+venv
+*.sqlite
+*.pickle
+settings.json
+pbservice.py
+__pycache__
